@@ -1,8 +1,0 @@
-.DS_Store
-.env
-.venv
-
-/dataset
-/lora_adapters
-
-/other/sandbox.ipynb
